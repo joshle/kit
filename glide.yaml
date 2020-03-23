@@ -3,7 +3,7 @@ import:
 - package: github.com/spf13/cobra
   subpackages:
   - cobra
-- package: github.com/Sirupsen/logrus
+- package: github.com/sirupsen/logrus
   repo: https://github.com/sirupsen/logrus.git
 - package: github.com/sirupsen/logrus
   version: ^1.0.3

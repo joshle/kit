@@ -13,7 +13,7 @@ import (
 	"bytes"
 	"go/format"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/dave/jennifer/jen"
 	"github.com/kujtimiihoxha/kit/fs"
 	"github.com/kujtimiihoxha/kit/parser"
